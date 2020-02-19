@@ -1,0 +1,9 @@
+this is new file after readme.txt
+commands to follow:
+git add file.txt
+git status
+git commit
+write commit statement
+git status
+
+thank you
